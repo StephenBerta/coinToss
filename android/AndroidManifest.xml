@@ -22,6 +22,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.cointoss.SpinnerActivity"
+            android:label="@string/title_activity_spinner" >
+        </activity>
     </application>
 
 </manifest>
